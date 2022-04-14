@@ -5,6 +5,7 @@ import faDiscord from '@fortawesome/fontawesome-free-brands/faDiscord'
 import faSpotify from '@fortawesome/fontawesome-free-brands/faSpotify'
 import faInstagram from '@fortawesome/fontawesome-free-brands/faInstagram'
 import faGithub from '@fortawesome/fontawesome-free-brands/faGithub'
+import faSoundcloud from '@fortawesome/fontawesome-free-brands/faSoundcloud'
 
 class Main extends React.Component {
   render() {
@@ -54,6 +55,9 @@ class Main extends React.Component {
             <li><a href="/github">
               <FontAwesomeIcon icon={faGithub} />
             </a> Github </li>
+            <li><a href="/soundcloud">
+              <FontAwesomeIcon icon={faSoundcloud} />
+            </a> SoundCloud </li>
           </ul>
           {close}
         </article>
