@@ -8,7 +8,7 @@ class DiscordRedirect extends React.Component {
           <meta http-equiv="refresh" content="0; URL=https://open.spotify.com/artist/7k7GhHBikx0qz9wiZtTWL2?si=HUHWSSdETtmVstfSUM50XQ" />
           <meta name="description" content="Listen to Cider Gamer on Spotify. Artist · 4 monthly listeners." />
           <meta property="og:title" content="Cider Gamer" />
-          <meta property="og:description" content="Artist · 4 monthly listeners." />
+          <meta property="og:description" content="Artist · 10 monthly listeners." />
           <meta property="og:url" content="https://open.spotify.com/artist/7k7GhHBikx0qz9wiZtTWL2" />
           <meta property="og:image" content="https://i.scdn.co/image/ab6761610000e5ebce239a0a800c10709ccd007e" />
           <meta property="og:type" content="profile" />
