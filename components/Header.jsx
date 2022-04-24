@@ -7,7 +7,7 @@ const Header = (props) => (
         <div className="logo">
             {/* <span className="icon fa-diamond"></span> */}
             {/* <FontAwesomeIcon icon={faGem} transform="grow-18" /> */}
-            <img src='../static/images/pfp-circle.png' width={'50vw'} />
+            <img loading='lazy' src='../static/images/pfp-circle.png' width={'50vw'} />
         </div>
         <div className="content">
             <div className="inner">

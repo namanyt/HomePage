@@ -1,6 +1,6 @@
 import Head from 'next/head'
 
-class DiscordRedirect extends React.Component {
+class SoundCloudRedirect extends React.Component {
   render() {
     return (
       <div>
@@ -73,4 +73,4 @@ class DiscordRedirect extends React.Component {
   }
 }
 
-export default DiscordRedirect;
+export default SoundCloudRedirect;
