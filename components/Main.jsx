@@ -20,7 +20,7 @@ class Main extends React.Component {
 					<ul className='actions vertical'>
 						<li><strong><a href="/bot">Bucky</a></strong>:  {'\u00A0'} <span> An Activity Discord Generator Bot </span></li>
 						<li><strong><a href="https://github.com/Ciderboi123/Flappy-Bird/releases/tag/v1.1">Flappy Bird</a></strong>:  {'\u00A0'} <span> A Simple Flappy Bird Game made in c++ </span></li>
-						<li><strong><a href="https://github.com/ciderboi123/jarvis">Jarvis</a></strong>:  {'\u00A0'} <span> A Discord Server Management Bot </span></li>
+						<li><strong><a href="https://animebinge.xyz/">Anime Binge</a></strong>:  {'\u00A0'} <span> A Free and No Ad site to watch anime </span></li>
 						<li><strong><a href="https://chat.ciderboi.xyz">DChat App</a></strong>:  {'\u00A0'} <span> A Chat App made using React and Firebase </span></li>
 						<li><strong><a href="https://github.com/parafoxia/chatto">Chatto</a></strong>:  {'\u00A0'} <span> A Chat bot API for youtube and twitch bots </span></li>
 						<li><strong><a href="https://cavecraft.in">Cave Craft</a></strong>:  {'\u00A0'} <span> A Minecraft Server Network </span></li>
